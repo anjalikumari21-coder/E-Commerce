@@ -1,0 +1,33 @@
+.order-success-container {
+  max-width: 400px;
+  margin: 3rem auto;
+  padding: 2rem;
+  border-radius: 10px;
+  background: #e7f9ed;
+  text-align: center;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+}
+
+.order-success-details {
+  margin: 1.5rem 0;
+  text-align: left;
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  color: #222;
+}
+
+.order-success-home-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.7rem 2rem;
+  background: #38b000;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+.order-success-home-btn:hover {
+  background: #008000;
+}
